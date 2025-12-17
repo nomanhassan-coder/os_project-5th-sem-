@@ -2,6 +2,7 @@
 
 A simple Python application to monitor and manage system processes, CPU, and memory usage.
 
+
 ## Features
 - **List Running Processes** - View currently running processes on your system
 - **Show CPU & Memory Usage** - Monitor CPU and RAM usage in real-time
@@ -44,6 +45,10 @@ python main.py
 
 ### Menu Options
 Once running, you'll see the main menu:
+
+
+<img width="744" height="318" alt="Screenshot from 2025-12-17 22-44-51" src="https://github.com/user-attachments/assets/f4381c07-b896-49f6-9cec-6a8b7ed31e59" />
+
 
 ```
 1. List Processes
